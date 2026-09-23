@@ -79,7 +79,7 @@ runApp("app.R")
 ## Documentazione e Relazione Tecnica
 
 All'interno della cartella [`docs/`](docs/) è disponibile il report completo in formato PDF:
-- **`ProjectWorkFinMat.pdf`**: Tratta la formulazione matematica dei problemi di ottimizzazione, le matrici di covarianza, l'interpretazione dei contributi marginali al rischio e le conclusioni empiriche sui portafogli analizzati.
+- **`ProgettazioneStrategieAssetAllocation.pdf`**: Tratta la formulazione matematica dei problemi di ottimizzazione, le matrici di covarianza, l'interpretazione dei contributi marginali al rischio e le conclusioni empiriche sui portafogli analizzati.
 
 ---
 
