@@ -1,4 +1,4 @@
-# Advanced Quantitative Asset Allocation & Risk Budgeting Framework
+# Quantitative Asset Allocation & Risk Budgeting: An Interactive Shiny Framework
 
 [![R Version](https://img.shields.io/badge/R-%3E%3D%204.2.0-blue.svg)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Interactive%20Dashboard-brightgreen.svg)](https://shiny.posit.co/)
